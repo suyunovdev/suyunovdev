@@ -16,7 +16,7 @@ Hello! I'm Ilyos Suyunov, a passionate **Frontend Developer** dedicated to craft
 
 - **Email:** ilyossuyunov416@gmail.com
 - **LinkedIn:** [Ilyos Suyunov](https://www.linkedin.com/in/ilyos-suyunov/)
-- **Telegram:** [@ilyos_suyunov]((https://t.me/Uzbcoder_01))
+- **Telegram:** [@ilyos_suyunov](https://t.me/Uzbcoder_01)
 
 ## 🌱 Currently Learning
 
