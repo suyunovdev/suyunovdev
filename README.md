@@ -7,19 +7,10 @@ Hello! I'm Ilyos Suyunov, a passionate **Frontend Developer** dedicated to craft
 - **Frontend Technologies:** HTML5, CSS3 (Sass, Tailwind CSS), JavaScript (ES6+), TypeScript
 - **Frameworks & Libraries:** React.js, Next.js, Redux, React Router
 - **UI Frameworks:** Material-UI (MUI), Bootstrap, Ant Design
-- **Backend Skills:** Node.js, Express
 - **Version Control:** Git, GitHub
 - **Deployment Platforms:** Vercel, Netlify
 - **Testing:** Jest, React Testing Library
-- **Design Tools:** Figma, Adobe XD
-
-## ✨ Featured Projects
-
-Here are a few examples of what I've been working on:
-
-1. **E-commerce Platform** - A modern online store with product listings, user-friendly cart, and secure checkout functionalities.
-2. **Movie Database App** - A web application providing detailed information about popular movies, with advanced search and filter capabilities.
-3. **Personal Blog** - A platform for sharing informative articles and blog posts, featuring a sleek and modern design.
+- **Design Tools:** Figma
 
 ## 📫 Let's Connect
 
