@@ -16,6 +16,7 @@ Hello! I'm Ilyos Suyunov, a passionate **Frontend Developer** dedicated to craft
 
 - **Email:** ilyossuyunov416@gmail.com
 - **LinkedIn:** [Ilyos Suyunov](https://www.linkedin.com/in/ilyos-suyunov/)
+- **Portfolio:** [@ilyos_suyunov](https://portfolio-website-ruddy-alpha.vercel.app/)
 - **Telegram:** [@ilyos_suyunov](https://t.me/Uzbcoder_01)
 
 ## 🌱 Currently Learning
